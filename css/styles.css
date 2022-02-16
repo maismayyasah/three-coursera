@@ -1,0 +1,123 @@
+body{
+	background-color: #342526;
+	font-family: 'Oxygen';
+	color: white;
+}
+
+#header-nav{
+	background-color: #B09390;
+	border-radius: 0;
+	border: 0;
+	
+}
+.navbar-brand {
+  padding-top: 20px;
+}
+.navbar-brand h1 {
+  font-family: serif;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #B09390;
+  text-align: center;
+  background-color: #342526;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+h3{
+	text-align: center;
+}
+.tex{
+	background-color: #B09390;
+}
+
+/*
+.h{
+margin-left: -70px;
+margin-top: 5px;
+float: left;
+	
+}
+#menu{
+	margin-top: 40px;
+	visibility: visible;
+
+}
+h3{
+	text-align: center;
+}
+p{
+	width:90%;
+	margin: 5% 5% 5% 5%;
+	padding: 10px;
+
+}
+
+
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+#nav-list{
+margin-top: 10px;
+}
+#nav-list a{
+	color:#;
+	text-align: center;
+	visibility: visible;
+
+}
+#nav-list a:hover{
+	background:black;
+
+}
+#nav-list a span{
+	font-size:1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.tex{
+	background-color: #ff8080;
+	border: 1px solid black;
+	margin-top: auto;
+	
+}
+
+@media (max-width: 767px) {
+	.tex{
+		margin: 120px;
+
+	}
+	.menu{
+		margin-top: 120px;
+		font-color:red;
+		position: relative;
+	}
+	.col-xm-12{
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
+}
+
+}*/
